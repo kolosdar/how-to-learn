@@ -1,4 +1,6 @@
 .section-subtitle {
+  position: relative;
+  z-index: 1;
   width: 60%;
   margin: 0 auto;
   padding: 0;

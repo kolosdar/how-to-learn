@@ -7,3 +7,4 @@
 ## Используемые технологии
 При создании сайта использовались технологии Flexbox, БЭМ, файловая  структура  Nested БЭМ, API YouTube.
 
+[Ссылка на GitHub Pages](https://kolosdar.github.io/russian-travel)

@@ -14,3 +14,9 @@
 .khan__buy-link:hover {
   opacity: .6;
 }
+
+@media (max-width: 1116px) {
+  .khan__buy-link {
+    font-size: 24px;
+  }
+}
